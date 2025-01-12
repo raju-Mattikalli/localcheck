@@ -1,0 +1,19 @@
+[1mdiff --git a/apnacollege-demo b/apnacollege-demo[m
+[1m--- a/apnacollege-demo[m
+[1m+++ b/apnacollege-demo[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit 3ccd7885eb5e5466b5f7ac5156044a6a7900c8fb[m
+[32m+[m[32mSubproject commit 3ccd7885eb5e5466b5f7ac5156044a6a7900c8fb-dirty[m
+[1mdiff --git a/localcheck/index.html b/localcheck/index.html[m
+[1mindex f54c166..75f73f6 100644[m
+[1m--- a/localcheck/index.html[m
+[1m+++ b/localcheck/index.html[m
+[36m@@ -7,7 +7,7 @@[m
+ </head>[m
+ <body>[m
+     <p>[m
+[31m-    <p> this is feature button</p>[m
+[32m+[m[32m    <p>this is new feature dropdown</p>[m
+     [m
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum odit architecto eius sapiente quos tenetur consequatur deleniti recusandae laboriosam et cum, dolores odio nemo officiis facere neque dolorem sunt iusto.[m
+     </p>[m
